@@ -1,6 +1,8 @@
 #使用 Fliki AI，轻松创建引人入胜的音频和视频内容：满足您所有数字创作需求的革命性工具  
 在日益数字化的世界中，企业、创作者和教育者面临的一个主要挑战是如何快速高效地制作引人入胜的内容。Fliki AI 为此提供了解决方案，它能够将简单的文本转换为高质量的视频和播客，简化了内容创作的整个过程。
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 **为什么选择 Fliki AI？**  
 Fliki AI 是一款创新的人工智能工具，可以彻底改变您创作内容的方式。以下是其主要优势：
 
